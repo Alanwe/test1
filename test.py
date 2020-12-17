@@ -1,2 +1,2 @@
-## Databricks notebook
+# Databricks notebook source
 print("hello world")
